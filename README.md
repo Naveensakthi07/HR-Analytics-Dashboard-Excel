@@ -2,6 +2,7 @@
 📌 Project Overview
 
 This project presents an interactive HR Analytics Dashboard built in Excel to analyze workforce structure, diversity, hiring patterns, experience distribution, and tenure metrics.
+<img width="1333" height="715" alt="1" src="https://github.com/user-attachments/assets/2eda3b30-80e5-480f-bc9d-6ad3f2323315" />
 
 The dashboard converts raw HR data into actionable insights for strategic workforce planning.
 
